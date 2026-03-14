@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.disflex{
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+
+.navbar{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    gap: 10px;
+    background-color: yellow;
+}
+.navbar1{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    gap: 10px;
+
+}
+
+.menu{
+    margin-left: auto;
+    padding-top: 20px;
+    gap: 15px;
+    display: flex;
+}
